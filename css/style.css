@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=REM:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bellota+Text:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+/* 
+font-family: "REM", sans-serif;
+font-family: "Bellota Text", sans-serif;
+*/
+.container {
+    width: 1150px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.box {
+    margin: 25px;
+}
+
+.box-text {
+    color: #666666;
+    font-family: "Bellota Text", sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+}
+
+.box-title {
+    font-family: "REM", sans-serif;
+}
+
+b {
+    font-weight: bold;
+    font-size: 19px;
+}
+
+.content-title {
+    text-align: center;
+    padding-top: 192px;
+    font-family: "REM", sans-serif;
+}
+
+.content-text {
+    text-align: center;
+    font-family: "Bellota Text", sans-serif;
+    font-size: 18px;
+    color: #666666;
+}
+
+.subcontent {
+    display: flex;
+    justify-content: center;
+}
+
+.block {
+    margin: 25px;
+    text-align: center  ;
+}
+
+.block-title {
+    font-family: "REM", sans-serif;
+    font-size: 22px;
+}
+
+.block-text {
+    font-family: "Bellota Text", sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    color: #666666;
+}
+
+.button {
+    color: white;
+    background-color: #F25822;
+    padding: 15px;
+    font-size: 20px;
+    font-family: "Bellota Text", sans-serif;
+    border-radius: 15px;
+}
